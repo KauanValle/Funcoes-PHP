@@ -6,5 +6,5 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Quest\\Tratar_String\\' => array($baseDir . '/src'),
+    'Quest\\TratarString\\' => array($baseDir . '/src'),
 );

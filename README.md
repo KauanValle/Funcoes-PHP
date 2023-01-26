@@ -10,7 +10,8 @@
             esse arquivo é só rodar o comando: php -S localhost:3030
   
     OBS: Ficar atendo ao arquivo Arquivo.php para conexão com banco de dados, se necessário mudar as infos, adicionar ao construtor ou
-    adicionar manualmente nos parametros do construtor da classe dbContext.php.
+    adicionar manualmente nos parametros do construtor da classe dbContext.php 
+    e assim que realizar o clone do projeto, realizar o seguinte comando: composer dump-autoload
     
 # Tratar_String
 
@@ -24,3 +25,4 @@
   
     Obs: Cada método é independente, foi criado diferentes funçoes para abstrair o maximo, caso deseje utilizar
     somente a função de tratar acentos ou somente a de letras maiusculas etc...
+    E assim que realizar o clone do projeto, realizar o seguinte comando: composer dump-autoload

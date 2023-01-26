@@ -9,12 +9,12 @@ class ComposerStaticInitdb30ca9f4cf41c279bf647a9b6d3c9c6
     public static $prefixLengthsPsr4 = array (
         'Q' => 
         array (
-            'Quest\\Tratar_String\\' => 16,
+            'Quest\\TratarString\\' => 19,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'Quest\\Tratar_String\\' =>
+        'Quest\\TratarString\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
         ),
